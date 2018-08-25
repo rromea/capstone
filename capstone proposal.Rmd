@@ -1,0 +1,26 @@
+---
+title: "Project proposal"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+## Project details
+
+-what is the problem?
+When a student reaches high school, she needs to make a decision on what to do after graduation. Most will try to get into college, but rising costs of college make the decision a difficult one. Parents will tend to advise their student to follow  their passion. But what if the student has an aptitude for something else? 
+
+-who is the client? How do they use the analysis?
+Students who are not sure about whether to go to college or just pursue a technical training course. They enter personal data and the program tells them whether thyey are better suited to pursue a college education or a trade. 
+
+-What is the data? where will it be sourced?
+Data will be comprised of personal, family, and school data of each individual student and the amount of success this student has gained from either college or technical school.
+
+-What approach will be used?
+A regression model will be used.
+
+-What are the deliverables?
+Model parameters and tracking ability.
