@@ -23,4 +23,4 @@ Data will be comprised of personal, family, and school data of each individual s
 A regression model will be used.
 
 -What are the deliverables?
-Model parameters and tracking ability.
+Summary of model parameters and tracking ability, code and slide deck.
